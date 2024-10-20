@@ -308,7 +308,7 @@ Configure the tools choose manage jenkins → Tools
  
 1. choose Slack and Configure 
 a. follow steps from https://plugins.jenkins.io/slack/ Create Credentials 
-![alt text](ScreenShots/14.png )
+![alt text](ScreenShots/14.jpg )
  configure webhooks in GitHub and SonarQube 
 ![alt text](ScreenShots/15.png )
 ![alt text](ScreenShots/16.png )
