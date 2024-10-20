@@ -419,13 +419,13 @@ stage('Push Docker Image') {     steps {
 }
 ![alt text](ScreenShots/18.png )
 
-![alt text](ScreenShots/19.png )
+![alt text](ScreenShots/19.jpg )
            
 ![alt text](ScreenShots/20.png )
 
 ![alt text](ScreenShots/21.png )
 
-![alt text](ScreenShots/22.png )
+![alt text](ScreenShots/22.jpg )
  
 ![alt text](ScreenShots/23.png ) 
  
@@ -448,7 +448,7 @@ stage('Push Docker Image') {     steps {
 -	sudo dpkg -i grafana-enterprise_11.2.2_amd64.deb 
 -	sudo  /bin/systemctl start grafana-server          ## to start Grafana  
 -	18.209.31.67:3000       ## default username and password : admin 
-![alt text](ScreenShots/26.png )
+![alt text](ScreenShots/26.jpg )
 
  ![alt text](ScreenShots/27.png )
  
