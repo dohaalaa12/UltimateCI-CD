@@ -1,4 +1,4 @@
-ScreenShots/37.jpeg
+![alt text](ScreenShots/37.jpeg )
 # Infrastructure 
  
 Start by creating the infrastructure using Terraform on AWS environment. First we will run the terraform script to create the Kubernetes cluster (Master & 2 Worker Nodes) in addition to the Monitoring instance. 
