@@ -182,7 +182,7 @@ tags = {
 ### 1. Access the instances using MobaXterm application. 
 1.	Create a new session.  
 2.	Get the public IP address for each instance from AWS. 
-  	![alt text](ScreenShots/4.png )
+  	![alt text](ScreenShots/4.jpg )
  	  
 3.	Copy the public IP address for each instance to the Remote host. 
 4.	Check the Specify username box and enter “ubuntu” as the username. 
