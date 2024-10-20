@@ -475,7 +475,7 @@ stage('Push Docker Image') {     steps {
 -	pgrep prometheus 
 -	kill   ##the id - ./prometheus & 
  
- ![alt text](ScreenShots/32.png)
+ ![alt text](ScreenShots/32.jpg)
  
    ![alt text](ScreenShots/33.png)
   
